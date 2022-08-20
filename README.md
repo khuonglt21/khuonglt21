@@ -1,4 +1,11 @@
 ### Hi there 👋
+#### I'm a Nodejs Fresher.
+
+##### BIO
+
+- 🔭 I'm currently learning at [**CodeGymVN**](https://codegym.vn/)
+- 🌱 I use daily: `NodeJS`,`ExpressJS`, `ReactJS`, `MongoDB`
+
 
 <!--
 **khuongkyuubi/khuongkyuubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
