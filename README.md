@@ -1,20 +1,20 @@
 ### Hi there 👋
-#### I'm a Nodejs Fresher.
+#### I'm a Nodejs Developer.
 
 ##### BIO
 
-- 🔭 I'm currently learning at [**CodeGymVN**](https://codegym.vn/)
-- 🌱 I use daily: `NodeJS`,`ExpressJS`, `ReactJS`, `MongoDB`
+- 🔭 I'm currently working at [**Paditech**](https://www.paditech.com/)
+- 🌱 I use daily: `NodeJS`,`Typescript`, `Nestjs`,`MySql`, `MongoDB`, `ReactJS` 
 
 
 <!--
-**khuongkyuubi/khuongkyuubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**khuonglt21/khuonglt21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...working
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
