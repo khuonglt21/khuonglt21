@@ -4,14 +4,16 @@
 ### Hi there 👋
 #### I'm a Nodejs Developer.
 
-##### BIO
+##### 📌 BIO
 
 - 🔭 I'm currently working at [**Paditech**](https://www.paditech.com/)
 - 🌱 I use daily: `NodeJS`,`Typescript`, `Nestjs`,`MySql`, `MongoDB`, `ReactJS` 
 
+##### 📊 STATS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khuonglt21&show_icons=true&theme=radical)
 
-	
+
+##### 🐍 CONTRIBUTION	
 ![Snake animation](https://github.com/khuonglt21/khuonglt21/blob/output/github-contribution-grid-snake.svg)
 
 <!--
