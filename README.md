@@ -13,9 +13,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khuonglt21&show_icons=true&theme=radical)
 
 
-##### 🐍 CONTRIBUTION	
-![Snake animation](https://github.com/khuonglt21/khuonglt21/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **khuonglt21/khuonglt21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
